@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0441-arranging-coins](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0441-arranging-coins) |
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Greedy
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1609-even-odd-tree](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1609-even-odd-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
