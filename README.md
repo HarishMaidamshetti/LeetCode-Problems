@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0441-arranging-coins](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [1609-even-odd-tree](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1609-even-odd-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0098-validate-binary-search-tree) |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Binary Search Tree
 |  |
 | ------- |
