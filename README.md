@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Simulation
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
 |  |
