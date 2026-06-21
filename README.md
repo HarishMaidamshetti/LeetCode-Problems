@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3895-count-digit-appearances](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3838-weighted-word-mapping](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
+| [3895-count-digit-appearances](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 ## Greedy
 |  |
 | ------- |
