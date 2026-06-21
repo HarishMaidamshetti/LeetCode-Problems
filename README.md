@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Dynamic Programming
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [1732-find-the-highest-altitude](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
+| [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
 |  |
