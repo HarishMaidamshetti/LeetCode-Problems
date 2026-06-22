@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
 ## String
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0065-valid-number](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0065-valid-number) |
 | [0709-to-lower-case](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0709-to-lower-case) |
+| [1189-maximum-number-of-balloons](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -155,5 +157,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
