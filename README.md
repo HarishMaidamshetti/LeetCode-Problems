@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Combinatorics
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1732-find-the-highest-altitude](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
@@ -181,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0319-bulb-switcher) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
