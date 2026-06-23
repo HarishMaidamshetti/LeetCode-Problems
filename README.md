@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2848-points-that-intersect-with-cars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 ## String
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
+| [2848-points-that-intersect-with-cars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 | [3028-ant-on-the-boundary](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
 ## Counting Sort
 |  |
