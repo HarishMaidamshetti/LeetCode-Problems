@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0319-bulb-switcher](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -173,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
