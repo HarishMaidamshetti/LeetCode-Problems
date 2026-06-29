@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0258-add-digits) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3028-ant-on-the-boundary](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3028-ant-on-the-boundary) |
@@ -198,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
