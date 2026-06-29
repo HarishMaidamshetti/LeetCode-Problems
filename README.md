@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1732-find-the-highest-altitude](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1854-maximum-population-year](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1854-maximum-population-year) |
 | [2574-left-and-right-sum-differences](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
