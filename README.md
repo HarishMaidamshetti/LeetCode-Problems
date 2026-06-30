@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
