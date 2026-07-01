@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0204-count-primes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
