@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0204-count-primes) |
+| [0239-sliding-window-maximum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Linked List
 |  |
@@ -261,4 +263,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
