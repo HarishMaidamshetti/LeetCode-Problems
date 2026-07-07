@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0410-split-array-largest-sum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
 | [0875-koko-eating-bananas](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1609-even-odd-tree](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
 ## Union-Find
