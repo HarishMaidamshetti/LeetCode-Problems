@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0875-koko-eating-bananas](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1609-even-odd-tree](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1609-even-odd-tree) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0994-rotting-oranges](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
