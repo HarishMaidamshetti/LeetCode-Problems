@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1609-even-odd-tree](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1609-even-odd-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0437-path-sum-iii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Search Tree
@@ -278,10 +280,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2685-count-the-number-of-complete-components) |
 ## Queue
 |  |
 | ------- |
