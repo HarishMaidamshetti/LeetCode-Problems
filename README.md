@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2540-minimum-common-value](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Array
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2848-points-that-intersect-with-cars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [2848-points-that-intersect-with-cars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2848-points-that-intersect-with-cars) |
 ## String
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2540-minimum-common-value](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Simulation
 |  |
