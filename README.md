@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1859-sorting-the-sentence](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1859-sorting-the-sentence) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3174-clear-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Tree
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1854-maximum-population-year](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1854-maximum-population-year) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
