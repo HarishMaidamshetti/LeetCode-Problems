@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1840-maximum-building-height](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2418-sort-the-people](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2418-sort-the-people) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3174-clear-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3174-clear-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
