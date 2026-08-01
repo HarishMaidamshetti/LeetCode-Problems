@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0319-bulb-switcher) |
 | [0441-arranging-coins](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0213-house-robber-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0486-predict-the-winner](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0605-can-place-flowers) |
@@ -300,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Number Theory
 |  |
