@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0319-bulb-switcher) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0213-house-robber-ii](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0486-predict-the-winner) |
@@ -348,4 +350,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0239-sliding-window-maximum) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
