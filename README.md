@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0486-predict-the-winner) |
 ## Bit Manipulation
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Stack
