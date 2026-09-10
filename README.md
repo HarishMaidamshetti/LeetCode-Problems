@@ -385,4 +385,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0627-swap-sex-of-employees) |
+| [1068-product-sales-analysis-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
