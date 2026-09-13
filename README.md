@@ -387,5 +387,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/0627-swap-sex-of-employees) |
 | [1068-product-sales-analysis-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1148-article-views-i) |
+| [1757-recyclable-and-low-fat-products](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1757-recyclable-and-low-fat-products) |
 | [1890-the-latest-login-in-2020](https://github.com/HarishMaidamshetti/LeetCode-Problems/tree/master/1890-the-latest-login-in-2020) |
 <!---LeetCode Topics End-->
